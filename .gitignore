@@ -1,0 +1,10 @@
+Fiche_de_début_de_formation_29042024.pdf
+_activate.au3
+_Launcher.bat
+_cmd.bat
+_WorkDir/*
+.idea/*
+venv/*
+Include/*
+Lib/*
+Scripts/*
